@@ -1,4 +1,4 @@
-name = "wgworld"
+name = "name = "edgetunnel""
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
@@ -19,3 +19,7 @@ persist = true
 
 [observability.issue_detection]
 enabled = false
+
+[vars]
+ADMIN = "4020592wg"
+
