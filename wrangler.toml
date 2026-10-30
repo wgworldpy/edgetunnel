@@ -5,7 +5,7 @@ keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"	
-id = "cd672771f5464f2893c1d19f4eb389a9"
+id = "d4dfc1a2fc134aa0ba3b485530a8621b"
 [observability.logs]
 enabled = true
 head_sampling_rate = 1
